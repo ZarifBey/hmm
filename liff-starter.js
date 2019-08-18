@@ -182,7 +182,7 @@ function meProfile(){
                         {
                             type:"uri",
                             label:"Me",
-                            uri:"line://app/1609119464-PAkYKJ7J?type=profile"
+                            uri:"line://app/1597127494-QDP2OlYl?type=profile"
                         }
                     ]
                 }
