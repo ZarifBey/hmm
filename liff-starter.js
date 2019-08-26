@@ -162,10 +162,10 @@ function meProfile(){
     liff.getProfile().then(function (prof) {
         var stat = prof.statusMessage;
         if (stat == null) {
-            var stat = " Bio boş #ZarifDerler";
+            var stat = " Bio boş #ZarifBots";
         }
         if (stat.length > 60) {
-            var stat = "Status Message is to long! Max 60 words";
+            var stat = "Status Message is to long! Max 60 words/nThe Gold Bot";
         }
         if (tipe === 'profile') {
             liff.sendMessages([{
